@@ -34,4 +34,4 @@ I will need to learn enough Java Script to get this site operational.
 This may ultimately be a browser plugin that "lays over" the browser. 
 
 ### Project Tracker
-https://trello.com/b/Gv50cxZ5/liftoff
+https://trello.com/invite/b/Gv50cxZ5/a4086a5d11868ceb973f4fb8e36f0bed/liftoff
