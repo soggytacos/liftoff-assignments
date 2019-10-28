@@ -8,8 +8,6 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 * Wireframe of the Home Page: 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
   * https://docs.google.com/drawings/d/1FCe-KPv0-vEAVMXw5H0BXl6brgmr9GdSXlBhxoGqcBY/edit?usp=sharing
 
 * Wireframe of the View Article Page
